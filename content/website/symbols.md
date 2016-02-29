@@ -4,6 +4,7 @@ title: "Symbols"
 menu:
   main:
     parent: 'Website'
+draft: true
 ---
 
 All these symbols can be input directly without reverting to awkward HTML-Entities like `&Theta;`: `Θ`

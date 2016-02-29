@@ -28,6 +28,6 @@ direct line: [01223 334910](tel:01223 334910)
 {{< email >}}
 
 ### Website: 
-**http://DavidSedley.github.io**
+http://DavidSedley.github.io
 
-(changed from ntlworld address, 29 Feb. 2016)
+(migrated from ntlworld address, 29 Feb. 2016)

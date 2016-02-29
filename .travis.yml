@@ -14,7 +14,7 @@ install:
 cache:
   directories:
   - "${GOPATH}"
-script: "${GOPATH}/bin/hugo --buildDrafts"
+script: "${GOPATH}/bin/hugo"
 after_success:
 - cd public
 - ls

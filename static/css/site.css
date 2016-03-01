@@ -23,3 +23,7 @@ h3 {
 .books h3 {
     clear: both;
 }
+
+.navbar {
+    font-size: 120%
+}

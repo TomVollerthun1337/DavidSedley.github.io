@@ -8,7 +8,7 @@ menu:
 
 ## Articles and conference/seminar papers
 
-### ‘The final proof of immortality in Plato’s _Phaedo_ ’
+### ‘The final proof of immortality in Plato’s <em>Phaedo</em>’
 
 ### ‘Socrates’ second voyage (_Phaedo_ 99-101)’
 

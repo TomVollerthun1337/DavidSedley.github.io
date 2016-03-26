@@ -432,3 +432,6 @@ forthcoming in A. Marmodoro (ed.), special Empedocles number of _Rhizomata_
 
 ### ‘Self-sufficiency as a divine attribute in Greek philosophy'
 forthcoming in A. Hunt and H. Marlow (eds.), _Greening the Gods in the Ancient World_
+
+### ‘An introduction to Plato’s theory of Forms‘
+forthcoming in a volume of Royal Institute of Philosophy lectures

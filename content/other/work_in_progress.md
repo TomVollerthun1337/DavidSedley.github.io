@@ -8,13 +8,13 @@ menu:
 
 ## Articles and conference/seminar papers
 
-### ‘The final proof of immortality in Plato’s _Phaedo_’
+### ‘The final proof of immortality in Plato’s _Phaedo’_
 
 ### ‘Socrates’ second voyage (_Phaedo_ 99-101)’
 
 ### ‘Zeno’s place paradox’
 
-### ‘Recollection in Plato’s _Timaeus_ ’
+### ‘Recollection in Plato’s _Timaeus’_
 
 ### ‘Divine anonymity’
 __________________

@@ -431,4 +431,4 @@ forthcoming in papers of 2013 Symposium Hellenisticum, ed. T. Bénatouïl and K.
 forthcoming in A. Marmodoro (ed.), special Empedocles number of _Rhizomata_
 
 ### ‘Self-sufficiency as a divine attribute in Greek philosophy'
-forthcoming in A. Hunt and L. Marlow (eds.), _Greening the Gods in the Ancient World_
+forthcoming in A. Hunt and H. Marlow (eds.), _Greening the Gods in the Ancient World_

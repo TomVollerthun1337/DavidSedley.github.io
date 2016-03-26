@@ -29,8 +29,9 @@ Townsend Lecturer, [Classics Department, Cornell University](http://classics.cor
 
 ### March 2015 (1 week):
 John and Penelope Biggs Resident in the Classics, Washington University in St Louis 
- 
- ### 17-18 May 2016, LECTIO Chair, KU Leuven
+
+### 17-18 May 2016
+LECTIO Chair, KU Leuven 
   ________
   ________
      

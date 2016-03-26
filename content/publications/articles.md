@@ -429,3 +429,6 @@ forthcoming in papers of 2013 Symposium Hellenisticum, ed. T. Bénatouïl and K.
 
 ### ‘Empedoclean superorganisms’
 forthcoming in A. Marmodoro (ed.), special Empedocles number of _Rhizomata_
+
+### ‘Plato‘s theory of Forms’
+forthcoming in volume of Royal Society of Philosophy lectures, 2016

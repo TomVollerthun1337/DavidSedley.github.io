@@ -430,5 +430,5 @@ forthcoming in papers of 2013 Symposium Hellenisticum, ed. T. Bénatouïl and K.
 ### ‘Empedoclean superorganisms’
 forthcoming in A. Marmodoro (ed.), special Empedocles number of _Rhizomata_
 
-### ‘Plato‘s theory of Forms’
-forthcoming in volume of Royal Society of Philosophy lectures, 2016
+### ‘Self-sufficiency as a divine attribute in Greek philosophy'
+forthcoming in A. Hunt and L. Marlow (eds.), _Greening the Gods in the Ancient World_

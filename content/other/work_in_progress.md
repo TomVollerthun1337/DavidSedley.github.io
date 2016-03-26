@@ -14,7 +14,7 @@ menu:
 
 ### ‘Zeno’s place paradox’
 
-### ‘Recollection in Plato’s <em>Timaeus<em/>’
+### ‘Recollection in Plato’s <em>Timaeus</em>’
 
 ### ‘Divine anonymity’
 __________________

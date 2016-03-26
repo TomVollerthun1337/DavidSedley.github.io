@@ -38,7 +38,7 @@ class: "books"
 (Berkeley and Los Angeles, 2007)
 ![](../bookcovers/Creationism.gif)
 
-### Italian translation, _Creazionismo. Il dibattito antico da Anassagora a Galeno_
+### Italian translation by Francesco Verde, _Creazionismo. Il dibattito antico da Anassagora a Galeno_
 (Rome, 2011)
 ![](../bookcovers/Creazionismo.jpg)
 

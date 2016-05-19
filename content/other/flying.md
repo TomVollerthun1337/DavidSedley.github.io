@@ -32,4 +32,4 @@ The academy must change its ways of planning and organising conferences, he argu
 
 [Article (2)](http://www.timeshighereducation.co.uk/story.asp?storyCode=407945&sectioncode=26)
 
-[Article (3)](http://www.cherwell.org/content/10230)
+[Article (3)](http://www.cherwell.org/2010/04/29/we-are-all-slaves-to-carbon/)

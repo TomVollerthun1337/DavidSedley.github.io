@@ -8,6 +8,7 @@ menu:
 
 I would love to hear ({{< email >}}) from any other academics who have substantially reduced their flying or are keen to do so, and from anyone with information on practical alternatives to academic travel, e.g. high-quality video-conferencing.
 
+
 ## From interview in Times Higher Education, 18 June 2009
 
 [(link to full article)](http://www.timeshighereducation.co.uk/story.asp?sectioncode=26&storycode=406979)
@@ -33,3 +34,5 @@ The academy must change its ways of planning and organising conferences, he argu
 [Article (2)](http://www.timeshighereducation.co.uk/story.asp?storyCode=407945&sectioncode=26)
 
 [Article (3)](http://www.cherwell.org/2010/04/29/we-are-all-slaves-to-carbon/)
+
+[What can we do globally to stop the huge damage flying does?](http://afreeride.org/)

@@ -358,6 +358,8 @@ in M.S. Funghi (ed.) _Studi e testi per il Corpus dei papiri filosofici_ (Floren
 ### ‘The _theoretikos bios_ in Alcinous’
 in T. Bénatouïl and M. Bonazzi (eds.) _Theoria, Praxis, and the Contemplative Life after Plato and Aristotle_ (Leiden 2012), 163-81
 
+_[Read online or download](https://cambridge.academia.edu/DavidSedley)_
+
 ### ‘Marcus Aurelius on physics’
 in M. Van Ackeren (ed.) _A Companion to Marcus Aurelius_ (Oxford 2012), 396-407
 

@@ -26,3 +26,5 @@ direct line: [01223 334910](tel:01223 334910)
 
 ### E-Mail address:
 {{< email >}}
+
+{{< img src="Fylingthorpe.jpg" title="David Neil Sedley" >}}

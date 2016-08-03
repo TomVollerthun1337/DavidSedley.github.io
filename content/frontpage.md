@@ -4,6 +4,8 @@ title: "_index"
 
 {{< img src="Swavesey.jpg" title="David Neil Sedley" >}}
 
+{{< img src="Fylingthorpe.jpg >}}
+
 # Personal details
 
 ### Full name:

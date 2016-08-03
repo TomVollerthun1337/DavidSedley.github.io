@@ -414,6 +414,12 @@ in K.M. Vogt (ed.), _Pyrrhonian Skepticism in Diogenes Laertius_ (Tübingen 2015
 ### ‘Varieties of definition’
 in D. Ebrey (ed.), _Theory and Practice in Aristotle’s Natural Philosophy_ (Cambridge 2015), 187-98
 
+### ‘An introduction to Plato’s theory of Forms’
+in A. O'Hear (ed.), _The History of Philosophy_, Royal Institute of Philosophy supplement 78 (Cambridge 2016), 3-22
+
+### ‘Empedoclean superorganisms’
+_Rhizomata_ 4.1 (2016), 111-25
+
 ### ‘The Empedoclean allusion at Lucretius 2.1081-3’
 in _Les Présocratiques dans la poésie latine_ (forthcoming)
 
@@ -429,11 +435,6 @@ in R. Seaford, J. Wilkins, M. Wright (eds.) _Selfhood and the Soul: Essays on An
 ### ‘Epicurus on dialectic’
 forthcoming in papers of 2013 Symposium Hellenisticum, ed. T. Bénatouïl and K. Ierodiakonou
 
-### ‘Empedoclean superorganisms’
-forthcoming in A. Marmodoro (ed.), special Empedocles number of _Rhizomata_
-
 ### ‘Self-sufficiency as a divine attribute in Greek philosophy'
 forthcoming in A. Hunt and H. Marlow (eds.), _Greening the Gods in the Ancient World_
 
-### ‘An introduction to Plato’s theory of Forms’
-forthcoming in a volume of Royal Institute of Philosophy lectures

@@ -2,7 +2,7 @@
 title: "_index"
 ---
 
-{{< img src="Fylingthorpe" title="David Neil Sedley" >}}
+{{< img src="Swavesey.jpg" title="David Neil Sedley" >}}
 
 # Personal details
 

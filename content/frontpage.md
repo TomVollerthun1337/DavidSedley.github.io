@@ -2,7 +2,7 @@
 title: "_index"
 ---
 
-{{< img src="Fylingthorpe.jpg" title="David Neil Sedley" >}}
+{{< img src="Fylingthorpe.jpg" title="painting by Rachel Vollerthun" >}}
 
 
 # Personal details

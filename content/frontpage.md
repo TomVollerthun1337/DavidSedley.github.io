@@ -2,7 +2,7 @@
 title: "_index"
 ---
 
-{{< img src="Fylingthorpe.jpg" title="painting by Rachel Vollerthun" >}}
+{{< img src="Fylingthorpe.jpg" title="watercolour by Rachel Vollerthun, July 2016" >}}
 
 
 # Personal details

@@ -12,11 +12,13 @@ menu:
 
 ### ‘Socrates’ second voyage (_Phaedo_ 99-101)’
 
-### ‘Zeno’s place paradox’
+### ‘Zeno of Elea on magnitude and place’
 
 ### ‘Recollection in Plato’s <em>Timaeus</em>’
 
 ### ‘Divine anonymity’
+
+### ‘Derveni papyrus column IV: context and content’
 __________________
 __________________
 ## *Books*

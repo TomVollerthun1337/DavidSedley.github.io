@@ -12,7 +12,7 @@ menu:
 
 ### ‘Socrates’ second voyage (_Phaedo_ 99-101)’
 
-### ‘Zeno of Elea on magnitude and place’
+### ‘Zeno place paradox’
 
 ### ‘Recollection in Plato’s <em>Timaeus</em>’
 

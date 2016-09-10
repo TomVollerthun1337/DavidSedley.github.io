@@ -12,7 +12,7 @@ menu:
 
 ### ‘Socrates’ second voyage (_Phaedo_ 99-101)’
 
-### ‘Zeno place paradox’
+### ‘Zeno's place paradox’
 
 ### ‘Recollection in Plato’s <em>Timaeus</em>’
 

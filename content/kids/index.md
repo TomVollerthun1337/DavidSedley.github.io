@@ -10,7 +10,7 @@ title: "40th wedding anniversary"
 
 [Visit Jonathan's sports massage clinic](http://www.hillsroadclinic.com)
 
-[See Will's research on tinnitus](http://www.tinnitus.org.uk/meet-the-researcher-dr-william-sedley)
+[See Will's research on tinnitus](http://www.bbc.co.uk/news/science-environment-32414876)
 
 
 

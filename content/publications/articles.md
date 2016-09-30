@@ -430,7 +430,7 @@ in _Les Présocratiques dans la poésie latine_ (forthcoming)
  in P. Kalligas (ed.), volume on ancient Academy (Cambridge, forthcoming)
 
 ### ‘Epicurean versus Cyrenaic happiness’
-in R. Seaford, J. Wilkins, M. Wright (eds.) _Selfhood and the Soul: Essays on Ancient Thought and Literature in Honour of Christopher Gill_ (Oxford, forthcoming), 89-106
+in R. Seaford, J. Wilkins, M. Wright (eds.) _Selfhood and the Soul: Essays on Ancient Thought and Literature in Honour of Christopher Gill_ (Oxford, forthcoming 2017), 89-106
 
 ### ‘Epicurus on dialectic’
 forthcoming in papers of 2013 Symposium Hellenisticum, ed. T. Bénatouïl and K. Ierodiakonou

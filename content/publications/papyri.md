@@ -31,6 +31,6 @@ edited in collaboration with N. Wilson, M. Rashed, N. Tchernetska and R.W. Sharp
 
 ### R. Chiaradonna, M. Rashed and D. Sedley, with a  palaeographical appendix by Natalie Tchernetska, ‘A rediscovered _Categories_ commentary’
 _Oxford Studies in Ancient Philosophy_ 44 (2013), 129-94;
-####shortened version, ‘A rediscovered _Categories_ commentary: Porphyry (?) with Fragments of Boethus’, in R. Sorabji (ed.), _Aristotle Re-interpreted_(London 2016), 231-62
+####Shortened version, ‘A rediscovered _Categories_ commentary: Porphyry (?) with Fragments of Boethus’, in R. Sorabji (ed.), _Aristotle Re-interpreted_ (London 2016), 231-62
 
 

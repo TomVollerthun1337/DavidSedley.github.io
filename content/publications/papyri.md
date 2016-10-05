@@ -29,7 +29,8 @@ with Jacques Brunschwig, translation of fragments in _Les Epicuriens_,  ed. D. D
 ### ‘Anon., _In Aristotelis Categorias’_
 edited in collaboration with N. Wilson, M. Rashed, N. Tchernetska and R.W. Sharples, in R. Netz et al. (eds.) _The Archimedes Palimpsest_ vol. 2 (Cambridge 2011), 311-39
 
-### R. Chiaradonna, M. Rashed and D. Sedley, ‘A rediscovered _Categories_ commentary’
-_Oxford Studies in Ancient Philosophy_ 44 (2013), 129-94
+### R. Chiaradonna, M. Rashed and D. Sedley, with a  palaeographical appendix by Natalie Tchernetska, ‘A rediscovered _Categories_ commentary’
+_Oxford Studies in Ancient Philosophy_ 44 (2013), 129-94;
+shortened version, ‘A rediscovered _Categories_ commentary: Porphyry (?) with Fragments of Boethus’, in R. Sorabji (ed.), _Aristotle Re-interpreted_(London 2016), 231-62
 
 

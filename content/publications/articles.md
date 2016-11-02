@@ -322,8 +322,14 @@ _Elenchos_  29 (2008), 317-34; revised version, 'Socrates, Darwin and Teleology'
 ### ‘Myth, punishment and politics in Plato’s _Gorgias’_
 in C. Partenie (ed.), _Plato’s myths_ (Cambridge 2009), 51-76
 
+_[Read online or download](https://cambridge.academia.edu/DavidSedley)_
+
+
 ### ‘Presocratic themes: being, not-being and mind’
 in Robin Le Poidevin, Peter Simons, Andrew McGonigal, Ross Cameron (eds.) _The Routledge Companion to Metaphysics_ (2009), 8-17
+
+_[Read online or download](https://cambridge.academia.edu/DavidSedley)_
+
 
 ### ‘Les dieux et les hommes’
 in J. Barnes, J.-B. Gourinat (ed.) _Lire les stoiciens_ (2009), 79-97
@@ -333,6 +339,9 @@ in J. Warren (ed.), _The Cambridge Companion to Epicureanism_ (Cambridge 2009), 
 
 ### ‘Plato’s _Timaeus_ and Hesiod’s  _Theogony’_
 in J.H. Haubold, G.R. Boys-Stones (ed.), _Plato and Hesiod_ (Oxford 2009), 246-58
+
+_[Read online or download](https://cambridge.academia.edu/DavidSedley)_
+
 
 ### ‘Three kinds of Platonic immortality’
 in D. Frede and B. Reis (eds.), _Body and Soul in Ancient Philosophy_ (Berlin 2009), 145-61
@@ -407,6 +416,9 @@ _[Read online or download](https://cambridge.academia.edu/DavidSedley)_
 ### ‘From the Presocratic to the Hellenistic Age’
 in S. Bullivant and M. Ruse (eds.), _The Oxford Handbook of Atheism_ (Oxford, 2013), 139-51
 
+_[Read online or download](https://cambridge.academia.edu/DavidSedley)_
+
+
 ### ‘Plato and the One-over-Many principle’
 in R. Chiaradonna and G. Galluzzo (ed.), _Universals in Ancient Philosophy_, (Pisa, 2013), 113-37
 
@@ -414,6 +426,9 @@ _[Read online or download](https://cambridge.academia.edu/DavidSedley)_
 
 ### ‘Socratic intellectualism in the <em>Republic</em>’s central digression’
 in G. Boys-Stones, D. El Murr, C. Gill (eds.) _The Platonic Art of Philosophy. Studies in Honour of Christopher Rowe_ (Cambridge 2013), 70-89
+
+_[Read online or download](https://cambridge.academia.edu/DavidSedley)_
+
 
 ### ‘The unity of virtue after the _Protagoras’_
 in  B. Collette and S. Delcomminette (eds.), _Unité et origine des vertus dans la philosophie ancienne_ (2014), 65-90
@@ -426,14 +441,26 @@ _Materiali e Discussioni_ 72 (2014), 217-41
 ### ‘Diogenes Laertius on the ten Pyrrhonist modes’
 in K.M. Vogt (ed.), _Pyrrhonian Skepticism in Diogenes Laertius_ (Tübingen 2015), 171-85
 
+_[Read online or download](https://cambridge.academia.edu/DavidSedley)_
+
+
 ### ‘Varieties of definition’
 in D. Ebrey (ed.), _Theory and Practice in Aristotle’s Natural Philosophy_ (Cambridge 2015), 187-98
+
+_[Read online or download](https://cambridge.academia.edu/DavidSedley)_
+
 
 ### ‘An introduction to Plato’s theory of Forms’
 in A. O'Hear (ed.), _The History of Philosophy_, Royal Institute of Philosophy supplement 78 (Cambridge 2016), 3-22
 
+_[Read online or download](https://cambridge.academia.edu/DavidSedley)_
+
+
 ### ‘Empedoclean superorganisms’
 _Rhizomata_ 4.1 (2016), 111-25
+
+_[Read online or download](https://cambridge.academia.edu/DavidSedley)_
+
 
 ### ‘The Empedoclean allusion at Lucretius 2.1081-3’
 in _Les Présocratiques dans la poésie latine_ (forthcoming)

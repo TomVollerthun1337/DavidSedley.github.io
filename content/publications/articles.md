@@ -427,9 +427,6 @@ _[Read online or download](https://cambridge.academia.edu/DavidSedley)_
 ### ‘Socratic intellectualism in the <em>Republic</em>’s central digression’
 in G. Boys-Stones, D. El Murr, C. Gill (eds.) _The Platonic Art of Philosophy. Studies in Honour of Christopher Rowe_ (Cambridge 2013), 70-89
 
-_[Read online or download](https://cambridge.academia.edu/DavidSedley)_
-
-
 ### ‘The unity of virtue after the _Protagoras’_
 in  B. Collette and S. Delcomminette (eds.), _Unité et origine des vertus dans la philosophie ancienne_ (2014), 65-90
 
@@ -437,6 +434,9 @@ _[Read online or download](https://cambridge.academia.edu/DavidSedley)_
 
 ### ‘Horace’s _Socraticae chartae_ (_A. P._ 295-322)’
 _Materiali e Discussioni_ 72 (2014), 217-41
+
+_[Read online or download](https://cambridge.academia.edu/DavidSedley)_
+
 
 ### ‘Diogenes Laertius on the ten Pyrrhonist modes’
 in K.M. Vogt (ed.), _Pyrrhonian Skepticism in Diogenes Laertius_ (Tübingen 2015), 171-85

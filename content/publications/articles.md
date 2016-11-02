@@ -25,6 +25,9 @@ _[Read online or download](https://cambridge.academia.edu/DavidSedley)_
 ### ‘Diodorus Cronus and Hellenistic philosophy’
 _Proceedings of the Cambridge Philological Society_ 203 (1977), 74-120
 
+_[Read online or download](https://cambridge.academia.edu/DavidSedley)_
+
+
 ### ‘The protagonists’
 chap. 1 of M. Schofield et al. (ed.), _Doubt and Dogmatism: Studies in Hellenistic Epistemology_ (Oxford, 1980), 1-19
 
@@ -36,6 +39,9 @@ _[Phronesis](http://leporello.ingentaselect.com/vl=17386435/cl=57/nw=1/rpsv/cw/b
 
 ### ‘On signs’
 in J. Barnes et al. (ed.), _Science and Speculation: Studies in Hellenistic Theory and Practice_ (Cambridge 1982), 239-72
+
+_[Read online or download](https://cambridge.academia.edu/DavidSedley)_
+
 
 ### ‘The Stoic criterion of identity’
 _Phronesis_ 27 (1982), 255-75; French version, tr. J. Brunschwig, ‘Le Critère d’identité chez les Stoïciens’, _Revue de métaphysique et de morale_ 4 (1989), 513-33
@@ -133,12 +139,18 @@ _[Read online or download](https://cambridge.academia.edu/DavidSedley)_
 ### ‘Aristotle’s _De interpretatione_ and ancient semantics’
 in G. Manetti (ed.), _Knowledge through Signs: Ancient Semiotic Theories and Practices_ (Brussels 1996), 87-108; revised version, ‘Aristote et la signification’, _Philosophie Antique_  4 (2004), 5-25
 
+_[Read online or download](https://cambridge.academia.edu/DavidSedley)_
+
+
 ### ‘Plato’s _Phaedo_ in the third century BC’
 in M. Serena Funghi (ed.), ΟΔΟΙ ΔΙΖΗΣΙΟΣ_: 
 Le vie della ricerca (Studi in onore di Francesco Adorno)_ (Florence 1996), 447-55
 
 ### ‘The inferential foundations of Epicurean ethics’
 in G. Giannantoni, M. Gigante (ed.), _Epicureismo Greco e Romano_ (Naples 1996), 313-39; repr. in S. Everson (ed.), _Ethics_ (Cambridge 1998), 129-50
+
+_[Read online or download](https://cambridge.academia.edu/DavidSedley)_
+
 
 ### ‘Alcinous’ epistemology’
 in K.A. Algra, P.W. van der Horst, D.T. Runia (ed.), _Polyhistor: Studies in the History and Historiography of Ancient Philosophy_ (Leiden 1996), 300-12
@@ -210,6 +222,9 @@ in M. Frede, D. Charles (ed.), _Aristotle’s Metaphysics Book Lambda_ (Oxford 2
 
 ### ‘Socratic irony in the Platonist commentators’
 in J. Annas and C.J. Rowe (ed.), _New Perspectives on Plato: Modern and Ancient_ (Cambridge, Mass., 2002), 37-57; earlier version, ‘L’ironie dans le dialogue platonicien selon les commentateurs anciens’, in F. Cossuta, M. Narcy (ed.), _La forme-dialogue chez Platon_ (Grenoble, 2001), 5-19
+
+_[Read online or download](https://cambridge.academia.edu/DavidSedley)_
+
 
 ### ‘Epistemologia e teorie della natura nell’età ellenistica’
 in _Storia della scienza_ I (Istituto dell’Enciclopedia Italiana, Rome 2001), 678-90

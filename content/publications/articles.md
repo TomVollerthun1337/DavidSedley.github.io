@@ -169,6 +169,10 @@ _[Longer version: read online or download](https://cambridge.academia.edu/DavidS
 ### ‘The ethics of Brutus and Cassius’
 _Journal of Roman Studies_ 87 (1997), 41-53	
 
+
+_[Read online or download](https://cambridge.academia.edu/DavidSedley)_
+
+
 ### ‘How Lucretius composed the _De rerum natura’_
 in K.A. Algra, M.H. Koenen, P.H. Schrijvers (eds.), _Lucretius and his Intellectual Background_ (Amsterdam 1997), 1-19
 

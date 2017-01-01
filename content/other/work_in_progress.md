@@ -18,7 +18,15 @@ menu:
 
 ### ‘Divine anonymity’
 
-### ‘Derveni papyrus column IV: context and content’
+### ‘The opening lemmas of the Derveni papyrus’
+
+### ‘Philosophical authority in the Greco-Roman world’
+
+### ‘Lucretian pleasures and pains’
+
+### ‘Why aren't atoms coloured?’
+
+
 __________________
 __________________
 ## *Books*

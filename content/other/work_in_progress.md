@@ -20,7 +20,7 @@ menu:
 
 ### ‘The opening lemmas of the Derveni papyrus’
 
-### ‘Philosophical authority in the Greco-Roman world’
+### ‘Philosophical authority in the ancient world’
 
 ### ‘Lucretian pleasures and pains’
 

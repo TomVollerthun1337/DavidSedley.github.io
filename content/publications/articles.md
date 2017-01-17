@@ -486,3 +486,11 @@ forthcoming in A. Hunt and H. Marlow (eds.), _Greening the Gods in the Ancient W
 
 ### ‘Divinisation'
 forthcoming in P. Destrée and G. Giannopoulou (eds.), _Plato’s Symposium: A Critical Guide_ (Cambridge)
+
+### ‘Becoming godlike’
+forthcoming in C. Bobonich (ed.), _The Cambridge Companion to Ancient Ethics_ (Cambridge)
+
+### ‘Creationism’
+forthcoming in L. Taub (ed.), _The Cambridge Companion to Ancient Science_ (Cambridge)
+
+‘The creation of the world in ancient Greek thought’, in Eranos Yearbook (forthcoming)

@@ -493,4 +493,5 @@ forthcoming in C. Bobonich (ed.), _The Cambridge Companion to Ancient Ethics_ (C
 ### ‘Creationism’
 forthcoming in L. Taub (ed.), _The Cambridge Companion to Ancient Science_ (Cambridge)
 
-‘The creation of the world in ancient Greek thought’, in Eranos Yearbook (forthcoming)
+### ‘The creation of the world in ancient Greek thought’
+forthcoming in _Eranos Yearbook_ (Einsiedeln)

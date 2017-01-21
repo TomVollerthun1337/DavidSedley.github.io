@@ -1,7 +1,7 @@
 ---
 title: "40th wedding anniversary"
 ---
-![](./40th.png)
+![](../40th.png)
 
 40th wedding anniversary, 1 September 2013
 

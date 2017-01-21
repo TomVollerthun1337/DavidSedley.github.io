@@ -11,6 +11,7 @@ install:
 - mkdir -p "$TRAVIS_BUILD_DIR/gosrc"
 - mkdir -p "$TRAVIS_BUILD_DIR/static"
 - go get -v github.com/spf13/hugo
+- ${GOPATH}/bin/hugo version
 cache:
   directories:
   - "${GOPATH}"

@@ -1,5 +1,5 @@
 ---
-title: "articles in Omnibus (school classics magazine)"
+title: "Articles in Omnibus (school classics magazine)"
 menu:
   main:
     parent: 'Publications'

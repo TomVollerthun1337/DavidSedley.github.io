@@ -484,7 +484,7 @@ forthcoming in papers of 2013 Symposium Hellenisticum, ed. T. Bénatouïl and K.
 ### ‘Self-sufficiency as a divine attribute in Greek philosophy'
 forthcoming in A. Hunt and H. Marlow (eds.), _Greening the Gods in the Ancient World_
 
-### ‘Divinisation'
+### ‘Divinization'
 forthcoming in P. Destrée and G. Giannopoulou (eds.), _Plato’s Symposium: A Critical Guide_ (Cambridge 2017), 88-107
 
 ### ‘Becoming godlike’

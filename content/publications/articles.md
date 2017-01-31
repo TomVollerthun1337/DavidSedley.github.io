@@ -479,7 +479,7 @@ in _Les Présocratiques dans la poésie latine_ (forthcoming)
 in R. Seaford, J. Wilkins, M. Wright (eds.) _Selfhood and the Soul: Essays on Ancient Thought and Literature in Honour of Christopher Gill_ (Oxford, forthcoming 2017), 89-106
 
 ### ‘Epicurus on dialectic’
-forthcoming in  T. Bénatouïl and K. Ierodiakonou (eds.), _Dialectic after Plato and Arisotle_ (Cambridge)
+forthcoming in  T. Bénatouïl and K. Ierodiakonou (eds.), _Dialectic after Plato and Aristotle_ (Cambridge)
 
 ### ‘Self-sufficiency as a divine attribute in Greek philosophy'
 forthcoming in A. Hunt and H. Marlow (eds.), _Greening the Gods in the Ancient World_

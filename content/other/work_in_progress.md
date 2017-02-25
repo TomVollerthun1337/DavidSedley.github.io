@@ -20,7 +20,7 @@ menu:
 
 ### ‘The opening lemmas of the Derveni papyrus’
 
-### ‘Philosophical authority in the ancient world’
+### ‘Xenocrates and the invention of Platonism’
 
 ### ‘Lucretian pleasures and pains’
 
@@ -32,6 +32,6 @@ __________________
 ## *Books*
 
 ### Ancient Greek theology
-based on 2014 lectures at Renmin University, Beijing, to be published initially in Chinese
+based on 2014 lectures at Renmin University, Beijing, currently being translated for publication in Chinese; English version to follow later.
 
 ### Plato’s _Phaedo_

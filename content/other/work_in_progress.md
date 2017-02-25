@@ -31,7 +31,7 @@ __________________
 __________________
 ## *Books*
 
-### Ancient Greek theology
+### Themes in Greek theology
 based on 2014 lectures at Renmin University, Beijing, currently being translated for publication in Chinese; English version to follow later.
 
 ### Plato’s _Phaedo_

@@ -12,7 +12,7 @@ menu:
 
 ### ‘Socrates’ second voyage (_Phaedo_ 99-101)’
 
-### ‘Zeno's place paradox’
+### ‘Eudemus' interpretation of Zeno's paradoxes’
 
 ### ‘Recollection in Plato’s <em>Timaeus</em>’
 
@@ -22,7 +22,7 @@ menu:
 
 ### ‘Xenocrates and the invention of Platonism’
 
-### ‘Lucretian pleasures and pains’
+### ‘Lucretian pleasures’
 
 ### ‘Why aren't atoms coloured?’
 

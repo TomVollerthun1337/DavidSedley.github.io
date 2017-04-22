@@ -2,6 +2,10 @@ sudo: false
 branches:
   only:
   - sources
+notifications:
+  email:
+    recipients:
+      - halfdane@gmx.net
 env:
   global:
   - GH_REF: github.com/DavidSedley/DavidSedley.github.io.git

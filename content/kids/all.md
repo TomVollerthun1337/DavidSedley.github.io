@@ -1,9 +1,9 @@
 ---
-title: "40th wedding anniversary"
+title: "Joint 70th birthday celebration"
 ---
-![](../40th.png)
+![](../70th.jpeg)
 
-40th wedding anniversary, 1 September 2013
+Joint 70th birthday celebration, 15 April 2017
 
 [Visit (and buy) Rachel's paintings](http://www.vollerthun.com/?page_id=2)
 

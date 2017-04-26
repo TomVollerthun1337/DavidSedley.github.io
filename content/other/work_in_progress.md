@@ -12,8 +12,6 @@ menu:
 
 ### ‘Socrates’ second voyage (_Phaedo_ 99-101)’
 
-### ‘Eudemus' interpretation of Zeno's paradoxes’
-
 ### ‘Recollection in Plato’s <em>Timaeus</em>’
 
 ### ‘Divine anonymity’

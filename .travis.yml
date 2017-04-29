@@ -6,22 +6,9 @@ branches:
 notifications:
   email:
     - halfdane@gmx.net
-env:
-  global:
-  - GH_REF: github.com/DavidSedley/DavidSedley.github.io.git
-  matrix:
-  - GOPATH=$TRAVIS_BUILD_DIR/gosrc
 install:
-- mkdir -p "$TRAVIS_BUILD_DIR/gosrc"
-- mkdir -p "$TRAVIS_BUILD_DIR/static"
-- rm -rf public
 - go get -v github.com/spf13/hugo
-- ${GOPATH}/bin/hugo version
-- ls -latr
-cache:
-  directories:
-  - "${GOPATH}"
-script: "${GOPATH}/bin/hugo"
+script: hugo
 after_success:
 - cd public
 - grep "Eudemus" other/work_in_progress/index.html

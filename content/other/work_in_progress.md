@@ -34,5 +34,3 @@ based on 2014 lectures at Renmin University, Beijing, currently being translated
 
 ### Plato’s _Phaedo_
 not a commentary but a discursive study of the whole dialogue
-
-(ignore, I'm a test)

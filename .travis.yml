@@ -11,7 +11,6 @@ install:
 script: hugo
 after_success:
 - cd public
-- grep "Eudemus" other/work_in_progress/index.html
 - git init
 - git config user.email "travis@example.com"
 - git config user.name "Travis ci"

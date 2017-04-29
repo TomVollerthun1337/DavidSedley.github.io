@@ -17,6 +17,7 @@ install:
 - rm -rf public
 - go get -v github.com/spf13/hugo
 - ${GOPATH}/bin/hugo version
+- ls -latr
 cache:
   directories:
   - "${GOPATH}"

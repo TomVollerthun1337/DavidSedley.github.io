@@ -15,20 +15,17 @@ install:
 - mkdir -p "$TRAVIS_BUILD_DIR/gosrc"
 - mkdir -p "$TRAVIS_BUILD_DIR/static"
 - go get -v github.com/spf13/hugo
+- ${GOPATH}/bin/hugo version
 cache:
   directories:
   - "${GOPATH}"
-before_script:
-  - rm -rf public
-  - mkdir public
-  - git clone .git --branch master public
 script: "${GOPATH}/bin/hugo"
 after_success:
 - cd public
 - cat publications/articles/index.html
+- git init
 - git config user.email "travis@example.com"
 - git config user.name "Travis ci"
-- git commit -am "snapshot $(date '+%m/%d/%y %H:%M')"
-- git push origin master
-- cd ..
+- git add .
+- git commit -m "snapshot $(date '+%m/%d/%y %H:%M')"
 - git push --force --quiet "https://${PUSH_TOKEN}@github.com/DavidSedley/DavidSedley.github.io.git" master:master 2>&1 >/dev/null

@@ -22,7 +22,7 @@ cache:
 script: "${GOPATH}/bin/hugo"
 after_success:
 - cd public
-- ls
+- cat publications/articles/index.html
 - git init
 - git config user.email "travis@example.com"
 - git config user.name "Travis ci"

@@ -468,7 +468,7 @@ _[Read online or download](https://cambridge.academia.edu/DavidSedley)_
 ### ‘Epicurean versus Cyrenaic happiness’
 in R. Seaford, J. Wilkins, M. Wright (eds.) _Selfhood and the Soul: Essays on Ancient Thought and Literature in Honour of Christopher Gill_ (Oxford 2017), 89-106
 
-### ‘Eudemus' interpretation of Zeno's paradoxes’
+### ‘Zenonian strategies’
 forthcoming in _Oxford Studies in Ancient Philosophy_ 53, 2017
 
 ### ‘The Empedoclean allusion at Lucretius 2.1081-3’

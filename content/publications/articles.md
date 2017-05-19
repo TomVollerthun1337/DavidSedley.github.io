@@ -478,7 +478,7 @@ in _Les Présocratiques dans la poésie latine_ (forthcoming)
  in A. Purves (ed.) _Touch and the Ancient Senses_ (Durham, forthcoming)
 
 ### ‘Carneades’ theological arguments’
- in P. Kalligas (ed.), volume on ancient Academy (Cambridge, forthcoming)
+ in C. Balla, E. Baziotopoulou, P. Kalligas and V. Karasmanis (eds.), _Plato’s Academy: a History_ (Cambridge, forthcoming)
 
 
 ### ‘Epicurus on dialectic’

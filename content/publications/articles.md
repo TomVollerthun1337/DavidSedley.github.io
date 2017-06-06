@@ -468,6 +468,9 @@ _[Read online or download](https://cambridge.academia.edu/DavidSedley)_
 ### ‘Epicurean versus Cyrenaic happiness’
 in R. Seaford, J. Wilkins, M. Wright (eds.) _Selfhood and the Soul: Essays on Ancient Thought and Literature in Honour of Christopher Gill_ (Oxford 2017), 89-106
 
+### ‘Divinization'
+in P. Destrée and G. Giannopoulou (eds.), _Plato’s Symposium: A Critical Guide_ (Cambridge 2017), 88-107
+
 ### ‘Zenonian strategies’
 in _Oxford Studies in Ancient Philosophy_ 53 (2017, forthcoming)
 
@@ -486,9 +489,6 @@ in  T. Bénatouïl and K. Ierodiakonou (eds.), _Dialectic after Plato and Aristo
 
 ### ‘Self-sufficiency as a divine attribute in Greek philosophy'
 in A. Hunt and H. Marlow (eds.), _Greening the Gods in the Ancient World_ (forthcoming)
-
-### ‘Divinization'
-in P. Destrée and G. Giannopoulou (eds.), _Plato’s Symposium: A Critical Guide_ (Cambridge 2017, forthcoming), 88-107
 
 ### ‘Becoming godlike’
 in C. Bobonich (ed.), _The Cambridge Companion to Ancient Ethics_ (Cambridge, forthcoming)

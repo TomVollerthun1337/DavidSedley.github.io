@@ -321,7 +321,7 @@ in G.R.F. Ferrari (ed.), _The Cambridge Companion to Plato’s Republic_ (Cambri
 in P. Curd, D.W. Graham (ed.), _The Oxford Handbook of Presocratic Philosophy_ (Oxford 2008), 305-32
 
 ### ‘Socrates’ place in the history of teleology’
-_Elenchos_  29 (2008), 317-34; revised version, 'Socrates, Darwin and Teleology' forthcoming in proceedings of 2009 Exeter conference on ancient teleology
+_Elenchos_  29 (2008), 317-34; revised version, 'Socrates, Darwin and Teleology', in J. Rocca (ed.), _Teleology in the Ancient World_ (Cambridge 2017), 25-42
 
 ### ‘Myth, punishment and politics in Plato’s _Gorgias’_
 in C. Partenie (ed.), _Plato’s myths_ (Cambridge 2009), 51-76
@@ -469,16 +469,16 @@ _[Read online or download](https://cambridge.academia.edu/DavidSedley)_
 in R. Seaford, J. Wilkins, M. Wright (eds.) _Selfhood and the Soul: Essays on Ancient Thought and Literature in Honour of Christopher Gill_ (Oxford 2017), 89-106
 
 ### ‘Divinization'
-in P. Destrée and G. Giannopoulou (eds.), _Plato’s Symposium: A Critical Guide_ (Cambridge 2017), 88-107
+in P. Destrée and G. Giannopoulou (eds.), _Plato’s Symposium: A Critical Guide_ (Cambridge, 2017), 88-107
 
 ### ‘Zenonian strategies’
-in _Oxford Studies in Ancient Philosophy_ 53 (2017, forthcoming)
+in _Oxford Studies in Ancient Philosophy_ 53 (2017), 1-32
 
-### ‘The Empedoclean allusion at Lucretius 2.1081-3’
-in _Les Présocratiques dans la poésie latine_ (forthcoming)
+### ‘Becoming godlike’
+in C. Bobonich (ed.), _The Cambridge Companion to Ancient Ethics_ (Cambridge, 2017), 319-37
 
 ### ‘The duality of touch’
-in A. Purves (ed.) _Touch and the Ancient Senses_ (Durham, forthcoming)
+in A. Purves (ed.) _Touch and the Ancient Senses_ (London and New York, 2018), 64-74
 
 ### ‘Carneades’ theological arguments’
  in C. Balla, E. Baziotopoulou, P. Kalligas and V. Karasmanis (eds.), _Plato’s Academy: a History_ (Cambridge, forthcoming)
@@ -490,11 +490,11 @@ in  T. Bénatouïl and K. Ierodiakonou (eds.), _Dialectic after Plato and Aristo
 ### ‘Self-sufficiency as a divine attribute in Greek philosophy'
 in A. Hunt and H. Marlow (eds.), _Greening the Gods in the Ancient World_ (forthcoming)
 
-### ‘Becoming godlike’
-in C. Bobonich (ed.), _The Cambridge Companion to Ancient Ethics_ (Cambridge, forthcoming)
-
 ### ‘Creationism’
 in L. Taub (ed.), _The Cambridge Companion to Ancient Science_ (Cambridge, forthcoming)
 
 ### ‘The creation of the world in ancient Greek thought’
 in _Eranos Yearbook_ (Einsiedeln, forthcoming)
+
+### ‘The Empedoclean allusion at Lucretius 2.1081-3’
+in _Les Présocratiques dans la poésie latine_ (forthcoming)

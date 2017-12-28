@@ -480,9 +480,11 @@ in C. Bobonich (ed.), _The Cambridge Companion to Ancient Ethics_ (Cambridge, 20
 ### ‘The duality of touch’
 in A. Purves (ed.) _Touch and the Ancient Senses_ (London and New York, 2018), 64-74
 
+### ‘The creation of the world in ancient Greek thought’
+in _Eranos Yearbook_ (Einsiedeln, 2017), 435-84
+
 ### ‘Carneades’ theological arguments’
  in C. Balla, E. Baziotopoulou, P. Kalligas and V. Karasmanis (eds.), _Plato’s Academy: a History_ (Cambridge, forthcoming)
-
 
 ### ‘Epicurus on dialectic’
 in  T. Bénatouïl and K. Ierodiakonou (eds.), _Dialectic after Plato and Aristotle_ (Cambridge, forthcoming)
@@ -493,8 +495,6 @@ in A. Hunt and H. Marlow (eds.), _Greening the Gods in the Ancient World_ (forth
 ### ‘Creationism’
 in L. Taub (ed.), _The Cambridge Companion to Ancient Science_ (Cambridge, forthcoming)
 
-### ‘The creation of the world in ancient Greek thought’
-in _Eranos Yearbook_ (Einsiedeln, 2017), 435-84
 
 ### ‘The Empedoclean allusion at Lucretius 2.1081-3’
 in _Les Présocratiques dans la poésie latine_ (forthcoming)

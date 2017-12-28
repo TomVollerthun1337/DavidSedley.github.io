@@ -494,7 +494,7 @@ in A. Hunt and H. Marlow (eds.), _Greening the Gods in the Ancient World_ (forth
 in L. Taub (ed.), _The Cambridge Companion to Ancient Science_ (Cambridge, forthcoming)
 
 ### ‘The creation of the world in ancient Greek thought’
-in _Eranos Yearbook_ (Einsiedeln, forthcoming)
+in _Eranos Yearbook_ (Einsiedeln, 2017), 435-84
 
 ### ‘The Empedoclean allusion at Lucretius 2.1081-3’
 in _Les Présocratiques dans la poésie latine_ (forthcoming)

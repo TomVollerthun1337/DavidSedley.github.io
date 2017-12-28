@@ -481,7 +481,7 @@ in C. Bobonich (ed.), _The Cambridge Companion to Ancient Ethics_ (Cambridge, 20
 in A. Purves (ed.) _Touch and the Ancient Senses_ (London and New York, 2018), 64-74
 
 ### ‘The creation of the world in ancient Greek thought’
-in _Eranos Yearbook_ (Einsiedeln, 2017), 435-84
+in _Eranos Yearbook_ 73, 2015-2016 (Einsiedeln, 2017), 435-84
 
 ### ‘Carneades’ theological arguments’
  in C. Balla, E. Baziotopoulou, P. Kalligas and V. Karasmanis (eds.), _Plato’s Academy: a History_ (Cambridge, forthcoming)

@@ -32,6 +32,9 @@ John and Penelope Biggs Resident in the Classics, Washington University in St Lo
 
 ### 17-18 May 2016
 LECTIO Chair, KU Leuven 
+
+### Oct. 2017-Sept. 2018
+Keeling Scholar in Residence, Philosophy Dept., University College London 
   ________
   ________
      

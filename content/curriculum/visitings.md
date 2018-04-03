@@ -35,6 +35,7 @@ LECTIO Chair, KU Leuven
 
 ### Oct. 2017-Sept. 2018
 Keeling Scholar in Residence, Philosophy Dept., University College London 
+
   ________
   ________
      
@@ -56,3 +57,6 @@ Keeling Lecture, University College London
 
 ### March 2016:
 Gregory Vlastos Memorial Lecture, Queen’s University, Ontario
+
+### June 2018:
+Michael Frede Memorial Lecture, Athens

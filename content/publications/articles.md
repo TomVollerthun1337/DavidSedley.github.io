@@ -483,7 +483,7 @@ in A. Purves (ed.) _Touch and the Ancient Senses_ (London and New York, 2018), 6
 ### ‘The creation of the world in ancient Greek thought’
 in _Eranos Yearbook_ 73, 2015-2016 (Einsiedeln, 2017), 435-84
 
-### ‘The Empedoclean allusion at Lucretius 2.1081-3’
+### ‘L'allusion empédocléenne en Lucrèce II, 1081-1083’
 in S. Franchet d'Espèrey and C. Lévy (eds.), _Les Présocratiques à Rome_ (Paris, 2018)
 
 ### ‘Carneades’ theological arguments’
@@ -499,4 +499,4 @@ in A. Hunt and H. Marlow (eds.), _Greening the Gods in the Ancient World_ (forth
 in L. Taub (ed.), _The Cambridge Companion to Ancient Science_ (Cambridge, forthcoming)
 
 ### ‘Epicurean theories of knowledge from Hermarchus to Lucretius and Philodemus’
-in _Lexicon Philosophicum_ (forthcoming)
+in F. Verde and M. Catapano (eds.), "Hellenistic Theories of Knowledge", _Lexicon Philosophicum_ 6 (forthcoming 2018)

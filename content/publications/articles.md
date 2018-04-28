@@ -497,4 +497,4 @@ in L. Taub (ed.), _The Cambridge Companion to Ancient Science_ (Cambridge, forth
 
 
 ### ‘The Empedoclean allusion at Lucretius 2.1081-3’
-in _Les Présocratiques dans la poésie latine_ (forthcoming)
+in _Les Présocratiques dans la poésie latine_ (2018)

@@ -483,6 +483,9 @@ in A. Purves (ed.) _Touch and the Ancient Senses_ (London and New York, 2018), 6
 ### ‘The creation of the world in ancient Greek thought’
 in _Eranos Yearbook_ 73, 2015-2016 (Einsiedeln, 2017), 435-84
 
+### ‘The Empedoclean allusion at Lucretius 2.1081-3’
+in S. Franchet d'Espèrey and C. Lévy (eds.), _Les Présocratiques à Rome_ (Paris, 2018)
+
 ### ‘Carneades’ theological arguments’
  in C. Balla, E. Baziotopoulou, P. Kalligas and V. Karasmanis (eds.), _Plato’s Academy: a History_ (Cambridge, forthcoming)
 
@@ -495,6 +498,3 @@ in A. Hunt and H. Marlow (eds.), _Greening the Gods in the Ancient World_ (forth
 ### ‘Creationism’
 in L. Taub (ed.), _The Cambridge Companion to Ancient Science_ (Cambridge, forthcoming)
 
-
-### ‘The Empedoclean allusion at Lucretius 2.1081-3’
-in S. Franchet d'Espèrey and C. Lévy (eds.), _Les Présocratiques à Rome_ (Paris, 2018)

@@ -498,3 +498,5 @@ in A. Hunt and H. Marlow (eds.), _Greening the Gods in the Ancient World_ (forth
 ### ‘Creationism’
 in L. Taub (ed.), _The Cambridge Companion to Ancient Science_ (Cambridge, forthcoming)
 
+### ‘Epicurean theories of knowledge from Hermarchus to Lucretius and Philodemus’
+in _Lexicon Philosophicum_ (forthcoming)

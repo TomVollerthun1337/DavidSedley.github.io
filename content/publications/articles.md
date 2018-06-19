@@ -493,7 +493,7 @@ in S. Franchet d'Espèrey and C. Lévy (eds.), _Les Présocratiques à Rome_ (Pa
 in  T. Bénatouïl and K. Ierodiakonou (eds.), _Dialectic after Plato and Aristotle_ (Cambridge, forthcoming)
 
 ### ‘Self-sufficiency as a divine attribute in Greek philosophy'
-in A. Hunt and H. Marlow (eds.), _Greening the Gods in the Ancient World_ (forthcoming)
+in A. Hunt and H. Marlow (eds.), _Ecology and Theology in the Ancient World: Cross-disciplinary Perspectives_ (forthcoming)
 
 ### ‘Creationism’
 in L. Taub (ed.), _The Cambridge Companion to Ancient Science_ (Cambridge, forthcoming)

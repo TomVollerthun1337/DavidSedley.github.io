@@ -486,6 +486,9 @@ in _Eranos Yearbook_ 73, 2015-2016 (Einsiedeln, 2017), 435-84
 ### ‘L'allusion empédocléenne en Lucrèce II, 1081-1083’
 in S. Franchet d'Espèrey and C. Lévy (eds.), _Les Présocratiques à Rome_ (Paris, 2018), 145-59
 
+### ‘The Phaedo’s final proof of immortality’
+in G. Cornelli, T.M. Robinson, F. Bravo (eds.), _Plato’s Phaedo_, Sankt Augustin, 2018, 212-22 (forthcoming)
+
 ### ‘Carneades’ theological arguments’
  in C. Balla, E. Baziotopoulou, P. Kalligas and V. Karasmanis (eds.), _Plato’s Academy: a History_ (Cambridge, forthcoming)
 

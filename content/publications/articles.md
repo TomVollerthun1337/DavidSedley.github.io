@@ -486,7 +486,7 @@ in _Eranos Yearbook_ 73, 2015-2016 (Einsiedeln, 2017), 435-84
 ### ‘L'allusion empédocléenne en Lucrèce II, 1081-1083’
 in S. Franchet d'Espèrey and C. Lévy (eds.), _Les Présocratiques à Rome_ (Paris, 2018), 145-59
 
-### ‘The _Phaedo_’s final proof of immortality’
+### ‘The _Phaedo_'s final proof of immortality’
 in G. Cornelli, T.M. Robinson, F. Bravo (eds.), _Plato’s Phaedo_ (forthcoming, Sankt Augustin, 2018), 212-22
 
 ### ‘Carneades’ theological arguments’
@@ -503,3 +503,9 @@ in L. Taub (ed.), _The Cambridge Companion to Ancient Science_ (Cambridge, forth
 
 ### ‘Epicurean theories of knowledge from Hermarchus to Lucretius and Philodemus’
 in F. Verde and M. Catapano (eds.), "Hellenistic Theories of Knowledge", _Lexicon Philosophicum_ 6 (forthcoming 2018)
+
+### ‘Celsus as Platonist philosopher’
+ in J. Carleton Paget and S. Gathercole (eds.), _Celsus in his World_ (forthcoming)
+
+### ‘The opening lemmas of the Derveni papyrus’
+ in C. Vassallo (ed.), _Presocratics and Papyrological Tradition: A Philosophical Reappraisal of the Sources_ (= Studia Praesocratica), Berlin/Boston: De Gruyter (forthcoming)

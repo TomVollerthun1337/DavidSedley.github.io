@@ -60,3 +60,6 @@ Gregory Vlastos Memorial Lecture, Queen’s University, Ontario
 
 ### June 2018:
 Michael Frede Memorial Lecture, Athens
+
+### March 2019:
+Bruce Lecture, University of Toronto

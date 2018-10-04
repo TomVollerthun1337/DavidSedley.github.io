@@ -8,21 +8,23 @@ menu:
 
 ## Articles and conference/seminar papers
 
-### ‘The final proof of immortality in Plato’s <em>Phaedo</em>’
-
-### ‘Socrates’ second voyage (_Phaedo_ 99-101)’
-
 ### ‘Recollection in Plato’s <em>Timaeus</em>’
 
 ### ‘Divine anonymity’
 
-### ‘The opening lemmas of the Derveni papyrus’
+### ‘Xenocrates’ invention of Platonism’
 
-### ‘Xenocrates and the invention of Platonism’
+### ‘An iconography of Xenocrates’ Platonism’
 
 ### ‘Lucretian pleasures’
 
 ### ‘Why aren't atoms coloured?’
+
+### ‘Etymology in Plato’s _Sophist_'
+
+### ‘Are Platonic Forms concepts?’
+
+
 
 
 __________________

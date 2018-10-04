@@ -509,3 +509,7 @@ in F. Verde and M. Catapano (eds.), "Hellenistic Theories of Knowledge", _Lexico
 
 ### ‘The opening lemmas of the Derveni papyrus’
  in C. Vassallo (ed.), _Presocratics and Papyrological Tradition: A Philosophical Reappraisal of the Sources_ (= Studia Praesocratica), Berlin/Boston: De Gruyter (forthcoming)
+ 
+ ### ‘Socrates’ second voyage (_Phaedo_ 99-101)’
+in F. Leigh (ed.) (volume of Keeling Lectures)
+

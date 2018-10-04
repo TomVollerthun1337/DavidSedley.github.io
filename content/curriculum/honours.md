@@ -10,7 +10,10 @@ menu:
 Fellow of the [British Academy](http://www.britac.ac.uk/)
 
 ### September 1998 - :
-Foreign Honorary Member of the [American Academy of Arts and Sciences](http://www.amacad.org/)
+International Honorary Member of the [American Academy of Arts and Sciences](http://www.amacad.org/)
 
 ### March 2003 - :
 Honorary Fellow, Trinity College Oxford
+
+### September 2018:
+presentation of festschrift, J. Bryan, R. Wardy and J. Warren (eds.), _Authors and Authorities in Ancient Philosophy_ (Cambridge 2018)

@@ -20,7 +20,7 @@ London, 30 May 1947
 ### Work address:
 [Christ's College, Cambridge CB2 3BU, UK](http://www.christs.cam.ac.uk/)
 
-([college plan](collegemap.jpg): my office is staircase V room 6)
+([college plan](collegemap.jpg): my office is staircase V room 6 i)
 
 ### Telephone
 direct line: [01223 334910](tel:01223 334910)

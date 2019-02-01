@@ -5,7 +5,7 @@ title: "Joint 70th birthday celebration"
 
 Joint 70th birthday celebration, 15 April 2017
 
-[Visit (and buy) Rachel's paintings](http://www.vollerthun.com/?page_id=2)
+[Visit (and buy) Rachel's paintings](http://www.vollerthun.com)
 
 
 [Visit Jonathan's sports massage clinic](http://www.hillsroadclinic.com)

@@ -487,22 +487,22 @@ in _Eranos Yearbook_ 73, 2015-2016 (Einsiedeln, 2017), 435-84
 in S. Franchet d'Espèrey and C. Lévy (eds.), _Les Présocratiques à Rome_ (Paris, 2018), 145-59
 
 ### ‘The _Phaedo_'s final proof of immortality’
-in G. Cornelli, T.M. Robinson, F. Bravo (eds.), _Plato’s Phaedo_ (forthcoming, Sankt Augustin, 2018), 212-22
-
-### ‘Carneades’ theological arguments’
- in C. Balla, E. Baziotopoulou, P. Kalligas and V. Karasmanis (eds.), _Plato’s Academy: a History_ (Cambridge, forthcoming)
+in G. Cornelli, T.M. Robinson, F. Bravo (eds.), _Plato’s Phaedo_ (Sankt Augustin, 2018), 212-22
 
 ### ‘Epicurus on dialectic’
-in  T. Bénatouïl and K. Ierodiakonou (eds.), _Dialectic after Plato and Aristotle_ (Cambridge, forthcoming)
+in  T. Bénatouïl and K. Ierodiakonou (eds.), _Dialectic after Plato and Aristotle_ (Cambridge, 2019), 82-113
 
 ### ‘Self-sufficiency as a divine attribute in Greek philosophy'
-in A. Hunt and H. Marlow (eds.), _Ecology and Theology in the Ancient World: Cross-disciplinary Perspectives_ (forthcoming)
+in A. Hunt and H. Marlow (eds.), _Ecology and Theology in the Ancient World: Cross-disciplinary Perspectives_ (London, 2019), 41-7
+
+### ‘Énigmes et paradpxes dans la philosophie grecque ancienne’
+in B. Collette-Ducic, M.-A. Gavray, J.-M. Narbonne (eds.), _L'Esprit critique dans l'antiquité: I, Critique et licence dans la Grèce antique_ (Paris, 2019), 217-36
+
+### ‘Epicurean theories of knowledge from Hermarchus to Lucretius and Philodemus’
+in F. Verde and M. Catapano (eds.), "Hellenistic Theories of Knowledge", _Lexicon Philosophicum_ 6 (2018), 105-21
 
 ### ‘Creationism’
 in L. Taub (ed.), _The Cambridge Companion to Ancient Science_ (Cambridge, forthcoming)
-
-### ‘Epicurean theories of knowledge from Hermarchus to Lucretius and Philodemus’
-in F. Verde and M. Catapano (eds.), "Hellenistic Theories of Knowledge", _Lexicon Philosophicum_ 6 (forthcoming 2018)
 
 ### ‘Celsus as Platonist philosopher’
  in J. Carleton Paget and S. Gathercole (eds.), _Celsus in his World_ (forthcoming)
@@ -513,3 +513,5 @@ in F. Verde and M. Catapano (eds.), "Hellenistic Theories of Knowledge", _Lexico
 ### ‘Socrates’ second voyage (_Phaedo_ 99-101)’
  in F. Leigh (ed.) (volume of Keeling Lectures, forthcoming)
 
+### ‘Carneades’ theological arguments’
+ in C. Balla, E. Baziotopoulou, P. Kalligas and V. Karasmanis (eds.), _Plato’s Academy: a History_ (Cambridge, forthcoming)

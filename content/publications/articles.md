@@ -477,17 +477,20 @@ in _Oxford Studies in Ancient Philosophy_ 53 (2017), 1-32
 ### ‘Becoming godlike’
 in C. Bobonich (ed.), _The Cambridge Companion to Ancient Ethics_ (Cambridge, 2017), 319-37
 
-### ‘The duality of touch’
-in A. Purves (ed.) _Touch and the Ancient Senses_ (London and New York, 2018), 64-74
-
 ### ‘The creation of the world in ancient Greek thought’
 in _Eranos Yearbook_ 73, 2015-2016 (Einsiedeln, 2017), 435-84
+
+### ‘The duality of touch’
+in A. Purves (ed.) _Touch and the Ancient Senses_ (London and New York, 2018), 64-74
 
 ### ‘L'allusion empédocléenne en Lucrèce II, 1081-1083’
 in S. Franchet d'Espèrey and C. Lévy (eds.), _Les Présocratiques à Rome_ (Paris, 2018), 145-59
 
 ### ‘The _Phaedo_'s final proof of immortality’
 in G. Cornelli, T.M. Robinson, F. Bravo (eds.), _Plato’s Phaedo_ (Sankt Augustin, 2018), 212-22
+
+### ‘Epicurean theories of knowledge from Hermarchus to Lucretius and Philodemus’
+in F. Verde and M. Catapano (eds.), "Hellenistic Theories of Knowledge", _Lexicon Philosophicum_ 6 (2018), 105-21
 
 ### ‘Epicurus on dialectic’
 in  T. Bénatouïl and K. Ierodiakonou (eds.), _Dialectic after Plato and Aristotle_ (Cambridge, 2019), 82-113
@@ -497,9 +500,6 @@ in A. Hunt and H. Marlow (eds.), _Ecology and Theology in the Ancient World: Cro
 
 ### ‘Énigmes et paradpxes dans la philosophie grecque ancienne’
 in B. Collette-Ducic, M.-A. Gavray, J.-M. Narbonne (eds.), _L'Esprit critique dans l'antiquité: I, Critique et licence dans la Grèce antique_ (Paris, 2019), 217-36
-
-### ‘Epicurean theories of knowledge from Hermarchus to Lucretius and Philodemus’
-in F. Verde and M. Catapano (eds.), "Hellenistic Theories of Knowledge", _Lexicon Philosophicum_ 6 (2018), 105-21
 
 ### ‘Creationism’
 in L. Taub (ed.), _The Cambridge Companion to Ancient Science_ (Cambridge, forthcoming)

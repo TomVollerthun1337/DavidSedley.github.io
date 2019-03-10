@@ -498,7 +498,7 @@ in  T. Bénatouïl and K. Ierodiakonou (eds.), _Dialectic after Plato and Aristo
 ### ‘Self-sufficiency as a divine attribute in Greek philosophy'
 in A. Hunt and H. Marlow (eds.), _Ecology and Theology in the Ancient World: Cross-disciplinary Perspectives_ (London, 2019), 41-7
 
-### ‘Énigmes et paradpxes dans la philosophie grecque ancienne’
+### ‘Énigmes et paradoxes dans la philosophie grecque ancienne’
 in B. Collette-Ducic, M.-A. Gavray, J.-M. Narbonne (eds.), _L'Esprit critique dans l'antiquité: I, Critique et licence dans la Grèce antique_ (Paris, 2019), 217-36
 
 ### ‘Creationism’

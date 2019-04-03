@@ -521,3 +521,9 @@ in L. Taub (ed.), _The Cambridge Companion to Ancient Science_ (Cambridge, forth
 
 ### ‘The _Timaeus_ as vehicle for Platonic doctrine’
   _Oxford Studies in Ancient Philosophy_ (forthcoming)
+  
+  ### ‘Xenocrates’ invention of Platonism’
+  in M. Erler, J. Hessler and F. Petrucci (eds.), _Authorities and Authoritative Texts in the Platonist Tradition_ (Cambridge, forthcoming)
+ 
+ ### ‘An iconography of Xenocrates’ Platonism’
+in M. Erler, J. Hessler and F. Petrucci (eds.), _Authorities and Authoritative Texts in the Platonist Tradition_ (Cambridge, forthcoming)

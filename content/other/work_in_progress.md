@@ -8,17 +8,15 @@ menu:
 
 ## Articles and conference/seminar papers
 
-### ‘Recollection in Plato’s <em>Timaeus</em>’
-
 ### ‘Divine anonymity’
 
 ### ‘Xenocrates’ invention of Platonism’
 
 ### ‘An iconography of Xenocrates’ Platonism’
 
-### ‘Lucretian pleasures’
-
 ### ‘Why aren't atoms coloured?’
+
+### ‘Lucretius on imagination and mental projection’
 
 ### ‘Etymology in Plato’s _Sophist_'
 

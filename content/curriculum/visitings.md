@@ -62,4 +62,4 @@ Gregory Vlastos Memorial Lecture, Queen’s University, Ontario
 Michael Frede Memorial Lecture, Athens
 
 ### March 2019:
-Bruce Lecture, University of Toronto
+Edith Bruce Memorial Lecture, University of Toronto

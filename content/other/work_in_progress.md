@@ -20,7 +20,7 @@ menu:
 
 ### ‘Are Platonic Forms concepts?’
 
-#### ‘Academic Legacies: Antiochus and Aenesidemus' (for _Oxford Handbook of Hellenistic Philosophy_)
+### ‘Academic Legacies: Antiochus and Aenesidemus' (for _Oxford Handbook of Hellenistic Philosophy_)
 
 
 

@@ -12,10 +12,6 @@ menu:
 
 ### ‘Theological dualism and the origins of Greek philosophy’
 
-### ‘Xenocrates’ invention of Platonism’
-
-### ‘An iconography of Xenocrates’ Platonism’
-
 ### ‘Why aren't atoms coloured?’
 
 ### ‘Lucretius on imagination and mental projection’
@@ -24,6 +20,7 @@ menu:
 
 ### ‘Are Platonic Forms concepts?’
 
+#### ‘Academic Legacies: Antiochus and Aenesidemus' (for _Oxford Handbook of Hellenistic Philosophy_)
 
 
 

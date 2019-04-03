@@ -10,6 +10,8 @@ menu:
 
 ### ‘Divine anonymity’
 
+### ‘Theological dualism and the origins of Greek philosophy’
+
 ### ‘Xenocrates’ invention of Platonism’
 
 ### ‘An iconography of Xenocrates’ Platonism’

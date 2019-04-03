@@ -515,3 +515,9 @@ in L. Taub (ed.), _The Cambridge Companion to Ancient Science_ (Cambridge, forth
 
 ### ‘Carneades’ theological arguments’
  in C. Balla, E. Baziotopoulou, P. Kalligas and V. Karasmanis (eds.), _Plato’s Academy: a History_ (Cambridge, forthcoming)
+ 
+### ‘Lucretian pleasures’
+ in V. Prosperi and D.Zucca (eds.),collection on Lucretius (forthcoming)
+
+### ‘The _Timaeus_ as vehicle for Platonic doctrine’
+  _Oxford Studies in Ancient Philosophy_ (forthcoming)

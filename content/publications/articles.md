@@ -492,6 +492,9 @@ in G. Cornelli, T.M. Robinson, F. Bravo (eds.), _Plato’s Phaedo_ (Sankt August
 ### ‘Epicurean theories of knowledge from Hermarchus to Lucretius and Philodemus’
 in F. Verde and M. Catapano (eds.), "Hellenistic Theories of Knowledge", _Lexicon Philosophicum_ 6 (2018), 105-21
 
+### ‘Stoics and their critics on diachronic identity’
+in _Rhizomata_ 6 (2018), 24-39
+
 ### ‘Epicurus on dialectic’
 in  T. Bénatouïl and K. Ierodiakonou (eds.), _Dialectic after Plato and Aristotle_ (Cambridge, 2019), 82-113
 

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bev_sedleys on David Sedley</title>
+    <link>http://DavidSedley.github.io/bev_sedley/</link>
+    <description>Recent content in Bev_sedleys on David Sedley</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://DavidSedley.github.io/bev_sedley/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bev Sedley</title>
+      <link>http://DavidSedley.github.io/bev_sedley/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://DavidSedley.github.io/bev_sedley/about/</guid>
+      <description>Bev Sedley retired in November 2002 as co-ordinator of Lifecraft, a Cambridge mental health voluntary organisation which she founded and ran for its first ten years, subsequently returning as chair of the Board of Trustees. She now works largely as a Trustee of Cambridge Carbon Footprint and Chair of Cambridge Sustainable Food.
+She has some dietary requirements.</description>
+    </item>
+    
+    <item>
+      <title>Bev Sedley, diet</title>
+      <link>http://DavidSedley.github.io/bev_sedley/bevs_diet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://DavidSedley.github.io/bev_sedley/bevs_diet/</guid>
+      <description>I can’t eat/drink shellfish, milk and its products, wheat, tea (apart from herbal teas) or coffee.
+I also follow the Hay diet, a food-combining diet which means that I can’t eat high carbohydrate and high protein in the same meal.
+ High carbohydrate foods such as potatoes and rice. High protein all meats (including chicken and fish), eggs and tofu.  This means I can’t eat paella or other dishes in which the two components are hard to separate.</description>
+    </item>
+    
+  </channel>
+</rss>

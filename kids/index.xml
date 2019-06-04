@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kids on David Sedley</title>
+    <link>http://DavidSedley.github.io/kids/</link>
+    <description>Recent content in Kids on David Sedley</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://DavidSedley.github.io/kids/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Joint 70th birthday celebration</title>
+      <link>http://DavidSedley.github.io/kids/all/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://DavidSedley.github.io/kids/all/</guid>
+      <description>Joint 70th birthday celebration, 15 April 2017
+Visit (and buy) Rachel&amp;rsquo;s paintings
+Visit Jonathan&amp;rsquo;s sports massage clinic
+See Will&amp;rsquo;s research on tinnitus</description>
+    </item>
+    
+  </channel>
+</rss>

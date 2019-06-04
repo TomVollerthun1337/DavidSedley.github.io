@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Websites on David Sedley</title>
+    <link>http://DavidSedley.github.io/website/</link>
+    <description>Recent content in Websites on David Sedley</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://DavidSedley.github.io/website/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>http://DavidSedley.github.io/website/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://DavidSedley.github.io/website/about/</guid>
+      <description> Disclaimer This page belongs to David Sedley and all rights belong to him.
+Technical Stuff  The site is built using the static site generator hugo The theme is an adapted Bootie Docs The sources can be found on github The build runs on travis-ci.org:  halfdane is handling the page&amp;rsquo;s technical details and administration. Contact: halfdane@gmx.net  </description>
+    </item>
+    
+  </channel>
+</rss>
